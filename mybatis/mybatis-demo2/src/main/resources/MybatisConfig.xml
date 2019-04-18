@@ -22,7 +22,7 @@
    </environments>
 	
    <mappers>
-      <mapper resource = "mapper/UserMapper.xml"/>
+      <mapper class = "com.qikegu.demo.mapper.UserMapper"/>
    </mappers>
    
 </configuration>
